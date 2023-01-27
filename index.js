@@ -14,8 +14,8 @@ class Players {
         this.hand = [];
     }
 }
-    let player1 = new Players('Atticus');
-    let player2 = new Players('Judge');
+    let player1 = new Players('Maurice');
+    let player2 = new Players('Kristina');
 
 
 class Deck {
